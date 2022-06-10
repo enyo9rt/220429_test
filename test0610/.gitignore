@@ -1,5 +1,3 @@
-venv
-
 HELP.md
 .gradle
 build/
@@ -37,6 +35,3 @@ out/
 
 ### VS Code ###
 .vscode/
-0506/
-test0527/
-0520/
